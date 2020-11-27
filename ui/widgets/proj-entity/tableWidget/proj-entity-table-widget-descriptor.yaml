@@ -1,0 +1,6 @@
+code: proj-entity-table-widget
+titles:
+  en: Proj Entity Table Widget
+  it: Proj Entity Table Widget
+group: free
+customUiPath: proj-entity-table-widget.ftl

@@ -1,0 +1,6 @@
+code: proj-entity-form-widget
+titles:
+  en: Proj Entity Form Widget
+  it: Proj Entity Form Widget
+group: free
+customUiPath: proj-entity-form-widget.ftl

@@ -1,0 +1,6 @@
+code: proj-entity-details-widget
+titles:
+  en: Proj Entity Details Widget
+  it: Proj Entity Details Widget
+group: free
+customUiPath: proj-entity-details-widget.ftl
